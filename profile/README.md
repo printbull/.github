@@ -1,3 +1,11 @@
+# System Diagram Document
+## EER Diagram
+![EER Diagram](https://github.com/user-attachments/assets/05d3d158-4ba2-4fce-8367-317089c98b30)
+## Deployment Diagram
+![Untitled (10)](https://github.com/user-attachments/assets/29f3dc89-71e0-454a-a154-63546c1f8945)
+
+## 
+# Requirements Document
 ## Stakeholder Identification
 ### System User
 The stakeholder here refers to the person that will be using our system to keep track of their assets. <br>
